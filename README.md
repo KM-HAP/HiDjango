@@ -3,6 +3,13 @@
 # How to use ?
 
 ```
+
+pip install -r requirements.txt
+
+```
+
+```
+
 python manage.py runserver
 
 Watching for file changes with StatReloader
@@ -16,6 +23,7 @@ January 03, 2021 - 22:23:43
 Django version 3.1.4, using settings 'useDjango.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
+
 ```
 
 # OPEN Browser to http://127.0.0.1:8000/
